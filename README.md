@@ -44,6 +44,8 @@ This dataset has 13.799 entries of sales and profit data throughout the year of 
 
 A dashboard is also made for this dataset to make analyzing numbers of sales, profit, quantity sold, unique orders, and unique customers easier. This is especially done to share the dataset to potential stakeholders.
 
+[![Cosmetics Sales and Profit Dashboard](https://public.tableau.com/static/images/Co/CosmeticsSalesandProfit/Dashboard/1.png)](https://public.tableau.com/app/profile/yuna.sinaga/viz/CosmeticsSalesandProfit/Dashboard)
+
 - **Total Sales:** The company generated a total of $1,770,790.00 in sales.
 - **Total Profit:** A total profit of $318,671.89 was achieved.
 - **Total Quantity Sold:** 75,362 units of products were sold.
