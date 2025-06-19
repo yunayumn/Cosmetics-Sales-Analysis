@@ -2,6 +2,7 @@
 _Key Insights and Actionable Recommendations_
 
 **Business Problems**
+
 1. Sales & Profitability Analysis
 - Which product categories and subcategories generate the highest and lowest sales and profit margins?
 - Which products or product lines are underperforming despite high sales volumes?
@@ -13,6 +14,7 @@ _Key Insights and Actionable Recommendations_
 - Are there regional trends (e.g., Asia vs. Europe) in product preferences or profitability?
 
 **Exploratory Data Analysis (EDA)**
+
 This dataset has 13.799 entries of sales and profit data throughout the year of 2022. The definition for all column is as follows:
 1. Row ID – A unique identifier for each row entry in the dataset.
 2. Order ID – The unique code representing each specific customer order.
@@ -43,11 +45,15 @@ A dashboard is also made for this dataset to make analyzing numbers of sales, pr
 - Total Unique Customers: The business served 6,113 unique customers.
 
 **Data Pre-processing**
+
 The dataset was found to be complete with no missing values and duplicate rows, indicating clean transactional records. Initial inspection showed that order_date was an object type and was converted to datetime for time-series analysis. Text-based categorical columns were normalized to the title case to ensure consistency (e.g., 'Face Care' instead of 'face care' or 'FACE CARE').
 
 **Results**
-**1. Sales and Profitability Analysis
-	S&P by Category**
+
+**1. Sales and Profitability Analysis**
+
+	**S&P by Category**
+ 
 - **Body Care** leads in both sales ($746,249) and profit ($180,537).
 - **Home And Accessories** has high sales ($332,778) but shows a loss in profit (-$17,189.10), indicating potential issues with pricing, discounts, or cost management in this category.
 - **Make Up** and **Face Care** are strong profit drivers. Hair Care has decent sales but relatively low profit.
