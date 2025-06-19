@@ -1,6 +1,6 @@
 **Cosmetics Sales and Profit Analysis**
 
-_Key Insights and Actionable Recommendations_
+_Key Insights Analysis_
 
 **Business Problems**
 
