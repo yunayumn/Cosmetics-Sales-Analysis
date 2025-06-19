@@ -90,11 +90,11 @@ The dataset was found to be complete with no missing values and duplicate rows, 
 - **Sales:** United States ($362,452), Australia ($103,010), France ($95,320), Mexico ($90,751), and China ($78,083).
 - **Profit:** United States ($62,660.40), Mexico ($25,248), France ($25,038.60), China ($23,415.10), and Germany ($19,925.20).
 - **Quantity:** United States (14,449), France (4,389), Australia (4,385), Mexico (4,156), and Germany (3,127).
-- **Insight:** The United States is a dominant market across all metrics. Mexico shows strong profit performance relative to its sales ranking. France and Australia also contribute significantly.
+- _Insight: _The United States is a dominant market across all metrics. Mexico shows strong profit performance relative to its sales ranking. France and Australia also contribute significantly.
 
 **Top Performing Regions**
 
 - **Sales:** Central America ($203,419), Western Europe ($198,076), Western US ($123,449), Oceania ($117,498), and South America ($116,130).
 - **Profit:** Western Europe ($49,006.20), Central America ($43,657.10), Eastern Asia ($27,619.80), Southern Asia ($25,140.30), and Western US ($24,479.80).
 - **Quantity:** Central America (9,129), Western Europe (8,881), Oceania (5,114), South America (4,729), and Western US (4,520).
-- **Insight:** Central America and Western Europe are key regions for sales, profit, and quantity. While Oceania and South America are strong in sales and quantity, their profit figures may need further investigation for profitability.
+- _Insight:_ Central America and Western Europe are key regions for sales, profit, and quantity. While Oceania and South America are strong in sales and quantity, their profit figures may need further investigation for profitability.
