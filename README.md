@@ -1,25 +1,25 @@
-**Cosmetics Sales and Profit Analysis**
+# **Cosmetics Sales and Profit Analysis**
 
 _Key Insights Analysis_
 
-**Business Problems**
+## **Business Problems**
 
-**1. Sales & Profitability Analysis**
+### **1. Sales & Profitability Analysis**
 
 - Which product categories and subcategories generate the highest and lowest sales and profit margins?
 - Which products or product lines are underperforming despite high sales volumes?
 
-**2. Customer Insights and Behavior**
+### **2. Customer Insights and Behavior**
 
 - How are the buying patterns of customers?
 - Which customer segments (Consumer, Corporate, Home Office) are contributing the most to sales and profit?
 
-**3. Geographical Performance**
+### **3. Geographical Performance**
 
 - Which countries, states, or cities have the highest and lowest sales performance?
 - Are there regional trends (e.g., Asia vs. Europe) in product preferences or profitability?
 
-**Exploratory Data Analysis (EDA)**
+## **Exploratory Data Analysis (EDA)**
 
 This dataset has 13.799 entries of sales and profit data throughout the year of 2022. The definition for all column is as follows:
 1. **Row ID** – A unique identifier for each row entry in the dataset.
@@ -52,13 +52,13 @@ A dashboard is also made for this dataset to make analyzing numbers of sales, pr
 - **Total Unique Orders:** There were 6,883 unique orders placed.
 - **Total Unique Customers:** The business served 6,113 unique customers.
 
-**Data Pre-processing**
+## **Data Cleaning and Pre-processing**
 
 The dataset was found to be complete with no missing values and duplicate rows, indicating clean transactional records. Initial inspection showed that **order_date** was an **object** type and was converted to datetime for time-series analysis. Categorical columns like **segment, city, state, country, region, market, subcategory, category,** and **product** were identified as **object** types and required normalization. Text-based categorical columns were normalized to the title case to ensure consistency (e.g., 'Face Care' instead of 'face care' or 'FACE CARE').
 
-**Results**
+## **Results**
 
-**1. Sales and Profitability Analysis**
+### **1. Sales and Profitability Analysis**
 
 **Sales and Profitability by Category**
  
@@ -67,7 +67,7 @@ The dataset was found to be complete with no missing values and duplicate rows, 
 - **Make Up** and **Face Care** are strong profit drivers. Hair Care has decent sales but relatively low profit.
 - _Insight:_ Body Care is the clear revenue and profit driver. Addressing the profitability of the 'Home And Accessories' and 'Hair Care' categories should be a priority.
 
-**2. Customer Insights and Behavior**
+### **2. Customer Insights and Behavior**
   
 **Customer Buying Patterns**
 
@@ -86,7 +86,7 @@ The dataset was found to be complete with no missing values and duplicate rows, 
 - **Self-Employed** is the smallest segment in terms of both sales and profit.
 - _Insight:_ The Corporate segment is the most lucrative. Focusing on strategies to retain and grow the Corporate customer base, as well as optimizing offerings for Consumer and Self-Employed segments, would be beneficial.
 
-**3. Geographical Performance**
+### **3. Geographical Performance**
   
 **Top Performing Countries**
 
