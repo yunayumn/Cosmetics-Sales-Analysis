@@ -93,7 +93,7 @@ The dataset was found to be complete with no missing values and duplicate rows, 
 - **Sales:** United States ($362,452), Australia ($103,010), France ($95,320), Mexico ($90,751), and China ($78,083).
 - **Profit:** United States ($62,660.40), Mexico ($25,248), France ($25,038.60), China ($23,415.10), and Germany ($19,925.20).
 - **Quantity:** United States (14,449), France (4,389), Australia (4,385), Mexico (4,156), and Germany (3,127).
-- _Insight: _ The United States is a dominant market across all metrics. Mexico shows strong profit performance relative to its sales ranking. France and Australia also contribute significantly.
+- _Insight:_ The United States is a dominant market across all metrics. Mexico shows strong profit performance relative to its sales ranking. France and Australia also contribute significantly.
 
 **Top Performing Regions**
 
