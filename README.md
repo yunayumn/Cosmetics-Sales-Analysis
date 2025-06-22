@@ -60,7 +60,7 @@ The dataset was found to be complete with no missing values and duplicate rows, 
 
 **1. Sales and Profitability Analysis**
 
-**S&P by Category**
+**Sales and Profitability by Category**
  
 - **Body Care** leads in both sales ($746,249) and profit ($180,537).
 - **Home And Accessories** has high sales ($332,778) but shows a loss in profit (-$17,189.10), indicating potential issues with pricing, discounts, or cost management in this category.
